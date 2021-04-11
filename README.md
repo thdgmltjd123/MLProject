@@ -9,7 +9,7 @@
 + 20150711_Assignment05 : Implementing Logistic Regression    
 ![image](https://user-images.githubusercontent.com/62729363/114295360-bdf0ee00-9adf-11eb-9fcc-0ef1f0659123.png)       
 + 20150711_Assignment06 : Multiple Logistic Regression      
-![image](https://user-images.githubusercontent.com/62729363/114295377-de20ad00-9adf-11eb-805e-31d79f521800.png)
+![image](https://user-images.githubusercontent.com/62729363/114295377-de20ad00-9adf-11eb-805e-31d79f521800.png)        
 ![image](https://user-images.githubusercontent.com/62729363/114295396-f55f9a80-9adf-11eb-8cac-03717ef3215d.png)       
 + 20150711_Assignment07 : Multiple Logistic Regression with modifying regularization parameter    
 ![image](https://user-images.githubusercontent.com/62729363/114295427-28099300-9ae0-11eb-954b-ce4fe8c2c9d4.png)       
@@ -33,7 +33,7 @@
 ![image](https://user-images.githubusercontent.com/62729363/114294719-77999000-9adb-11eb-8760-d6ad7d4e69e7.png)       
 + Assignment05,06_20150711 : Logistic Regression with Regularization param       
 + Assignment_07_20150711 : Kmeans Clustering      
-![image](https://user-images.githubusercontent.com/62729363/114295008-62256580-9add-11eb-9ea9-b91e2591c4ee.png)      
+![image](https://user-images.githubusercontent.com/62729363/114295008-62256580-9add-11eb-9ea9-b91e2591c4ee.png)
 ![image](https://user-images.githubusercontent.com/62729363/114295024-7701f900-9add-11eb-9fdb-518e7f142bd0.png)      
 + Assignment08_20150711 : PCA(Pricipal component Analysis)      
 + Assignment09_20150711 : MNIST --> using NeuralNetwork using Pytorch      
